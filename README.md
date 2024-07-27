@@ -10,6 +10,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijitabaksi" alt="srijitabaksi" /></a> </p>
 
 - 🌱 I’m currently learning **DSA(C,C++,Java), HTML, CSS , JavaScript ,NodeJs**
+- 
+- - 📚 3rd year student at Netaji Subhash Engineering College
+  - 
+  - - 💬 Ask me about **HTML, CSS, JS ,python, c , c++**
 
 - 📫 How to reach me **baksisrijita04@gmail.com**
 
