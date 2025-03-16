@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijitabaksi&label=Profile%20views&color=0e75b6&style=flat" alt="srijitabaksi" /> </p>
 
-- 🌱 I’m currently learning **DSA(C,C++,Java), HTML, CSS , JavaScript ,NodeJs, Reactjs,MongoDb**
+- 🌱  currently love to work with **DSA(C,C++,Java), HTML, CSS, bootstrap, tailwind, SCSS, JavaScript ,NodeJs, Reactjs, Express, MongoDb, SQL, PHP, postgreSQL, prisma, IOT, Machine learning**
   
 -  📚 3rd year student at Netaji Subhash Engineering College
   
